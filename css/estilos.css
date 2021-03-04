@@ -16,3 +16,16 @@ body {
 #container h1 {
     font-size: 20px;
 }
+#cabecera{
+    background: #33A;
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5cm;
+}
+#cabecera #tagline{
+    padding: 0 0 0 1cm;
+    font-weight: normal;
+    font-size: 26px;
+}
